@@ -7,3 +7,4 @@ This is made using-
 
 This is a responsive website and works in both dark mode as well as light mode.
 Basic functions are being used and the website is made from scratch.
+Checkout the repository for the whole code along with all the required assets.
