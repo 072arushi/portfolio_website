@@ -1,5 +1,5 @@
 # portfolio_website
-Checkout my portfolio [here](http://127.0.0.1:5500/index.html) 
+Checkout my portfolio [here](https://072arushi.github.io/portfolio_website/) 
 This is made using-
 1. HTML
 2. CSS
